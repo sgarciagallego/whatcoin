@@ -273,13 +273,11 @@ footer .copyright a {
   font-weight: 800;
 }
 
-footer .social i {
-  font-size: 1.4em;
-  background: -webkit-linear-gradient(-45deg, #74EBD5, #ACB6E5);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
 footer .social a {
   margin-left: 5px;
+  font-size: 1.4em;
+  background: -webkit-linear-gradient(-45deg, #74EBD5, #ACB6E5);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
