@@ -242,6 +242,7 @@ main.bg .right-content {
 
 main.bg .right-content img {
   width: 130px;
+  height: 160px;
 }
 
 /* footer */
@@ -272,7 +273,7 @@ footer .copyright a {
   font-weight: 800;
 }
 
-footer .social {
+footer .social i {
   font-size: 1.4em;
   background: -webkit-linear-gradient(-45deg, #74EBD5, #ACB6E5);
   -webkit-background-clip: text;
